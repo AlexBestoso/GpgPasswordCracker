@@ -1,4 +1,4 @@
-# 
+#!/bin/bash 
 # This script is used to help recover passwords used in gpg encrypted files.
 # This script may require sudo privileges to utilize the required key pairs, though it can be modified to allow manual key entry.
 # 
